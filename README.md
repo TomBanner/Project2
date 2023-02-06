@@ -25,35 +25,38 @@ Here are a few highlights:
 ------
 
 
-Correlation betwen S&P500 and Bitcoin
+Correlation betwen S&P500 and Bitcoin:
+
 ![image info](./images/Correlation_between_SP500_and_Bitcoin.png)
 
 
 ------
 
 
-Average Correlation between SP500 and Bitcoin by Year
+Average Correlation between SP500 and Bitcoin by Year:
+
 ![image info](./images/Average_Correlation_between_SP500_and_Bitcoin_by_Year.png)
 
 
 ------
 
 
-Historical Performance of Bitcoin vs S&P500 
+Historical Performance of Bitcoin vs S&P500:
+
 ![image info](./images/Historical_Performance_Comparison.png)
+
 
 ------
 
 
-Historical Volatility of Bitcoin vs S&P 500
+Historical Volatility of Bitcoin vs S&P 500:
+
 ![image info](./images/Rolling_Volatility_of_Returns_Overlayed.png)
 
 
 ------
 
 
-
-Suggested Investment Portfolio Weighting based on Sharpe Ratio
-
+Suggested Investment Portfolio Weighting based on Sharpe Ratio:
 
 ![image info](./images/Investment_Portfolio.png)
