@@ -22,21 +22,34 @@ The entire journey is described in detail in my notebook and there are several i
 Here are a few highlights:
 
 
+------
 
 
 Correlation betwen S&P500 and Bitcoin
 ![image info](./images/Correlation_between_SP500_and_Bitcoin.png)
 
 
+------
+
+
 Average Correlation between SP500 and Bitcoin by Year
 ![image info](./images/Average_Correlation_between_SP500_and_Bitcoin_by_Year.png)
+
+
+------
+
 
 Historical Performance of Bitcoin vs S&P500 
 ![image info](./images/Historical_Performance_Comparison.png)
 
+------
+
 
 Historical Volatility of Bitcoin vs S&P 500
 ![image info](./images/Rolling_Volatility_of_Returns_Overlayed.png)
+
+
+------
 
 
 
